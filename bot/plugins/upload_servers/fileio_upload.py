@@ -53,8 +53,8 @@ async def fileIO(file, client, bot, s_time):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🗂 SOURCE",
-                        url = "https://github.com/Abhijith-cloud/"
+                        "🗂️ SOURCE",
+                        url = "https://github.com/X-Gorn/"
                     )
                 ]])
             )
