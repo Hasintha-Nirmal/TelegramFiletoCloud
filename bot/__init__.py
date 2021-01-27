@@ -37,7 +37,7 @@ except KeyError:
 
 
 class msg():
-    source = "\nsource: https://github.com/Abhijith-cloud/TelegramFiletoCloud"
-    start = "\n<b>This bot uploads telegram files to MixDrop.co,File.io.\nAdmin: @thankappan369</b>"
-    error = "something is went wrong\n{error} \ncontact admin @thankappan369"
-    help = "Usage: <b>Send any file and the bot will upload it to MixDrop.co,File.io</b>"
+    source = "\nsource: https://github.com/X-Gorn/TelegramFiletoCloud"
+    start = "\nI'm X-File to Cloud!\nYou can upload Telegram Files to MixDrop.co and File.io\n\n/help for more details!\n"
+    error = "something is went wrong\n{error} \ncontact @xgorn"
+    help = "How to Use Me? Follow These Steps!\n\nUsage: Send Telegram File and the bot will upload it to MixDrop.co,File.io\n\nIf bot didn't respond, contact @xgorn"
